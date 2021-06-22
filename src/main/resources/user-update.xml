@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <USERS id='1' username='tester' password='$2a$10$uqKmMgXOF/kf2ImE7daFz.OuTXdGSqM63HZsEaQ12dd3IXo7Hmzy2'
+           email='tester@gmail.com' phone="+380971193319"
+           image_url="http://res.cloudinary.com/petclub/image/upload/v1615141240/user/default.png.png"/>
+    <USERS id='2' username='roman' password='$2a$10$y0Hlz759WXCbOQNBC9kKMOz5eBZkYd.6Yu0I/DNdnrdmAgghPasrW'
+           email='roman@test.com' phone="+380552523236"
+           image_url="http://res.cloudinary.com/petclub/image/upload/v1615141240/user/default.png.png"/>
+    <USERS id='3' username='rojeck123' password='rojeck123'
+           email='rojeck1999@gmail.com' phone="+380967208762"
+           image_url="http://res.cloudinary.com/petclub/image/upload/v1620756524/user/unnamed.jpg.jpg"/>
+    <USERS id='4' username='rojeck1234' password='$2a$10$KRHy/B3bSAbL/25WkUvIsebYmS82oKMSlUFMQSDr2Le0I/D0.l7uG'
+           email='hostlox1993@mail.ru' phone="+380976278976"
+           image_url="http://res.cloudinary.com/petclub/image/upload/v1615141240/user/default.png.png"/>
+    <USERS id='5' username='rojeck12345' password='$2a$10$qE3VoY3Gljc9RzOLhhqIhOMBfGHcX2bHWj2AO3ULbDLEbxfENyH7m'
+           email='rojeck@ki.ru' phone="+380976789234"
+           image_url="http://res.cloudinary.com/petclub/image/upload/v1615141240/user/default.png.png"/>
+    <USERS id='6' username='admin' password='$2a$10$uqKmMgXOF/kf2ImE7daFz.OuTXdGSqM63HZsEaQ12dd3IXo7Hmzy2'
+           email='admin@tester.com' phone="+380554412000"
+           image_url="http://res.cloudinary.com/petclub/image/upload/v1619698534/user/a9760d6e63344ac7b53e62f8876bb8bb.png.png"/>
+    <USERS id='7' username='kutylo' password='$2a$10$24Wp9mHrRpRlzI9cLs/SXOtzXKOjkzd/5aLWGdFfTUCyPzKaUKBwO'
+           email='kutylo@gmail.com' phone="+380971163236"
+           image_url="http://res.cloudinary.com/petclub/image/upload/v1615141240/user/default.png.png"/>
+    <USERS id='8' username='user' password='pass'
+           email='rmail@gmail' phone="phone"
+           image_url="imgUrl"/>
+    <USERS id='9' username='TestUpdate' password='pass'
+           email='test-update@insert' phone="phone-test-update"
+           image_url="imgUrl"/>
+</dataset>
